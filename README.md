@@ -15,3 +15,5 @@ Super (I mean super) basic intro to Alexa skills. The idea is to create an 'adve
 *???
 
 *Profit
+
+-jamielliottg
