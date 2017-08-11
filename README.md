@@ -2,7 +2,7 @@
 
 Super (I mean super) basic intro to Alexa skills. The idea is to create an 'adventure' from scratch in no time at all; actually done under 6 minutes if you check out the video here:
 
-https://youtu.be/peAFx02SGTg
+https://youtu.be/Q29VbLo1PDc
 
 # How to Use
 
