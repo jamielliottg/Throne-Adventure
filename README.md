@@ -4,16 +4,26 @@ Super (I mean super) basic intro to Alexa skills. The idea is to create an 'adve
 
 https://youtu.be/peAFx02SGTg
 
-# How to use
+# How to Use
 
-*Create a lambda function and copy the contents of index.js into it
+* Create an AWS Account here: https://aws.amazon.com/
 
-*Create a skill in the Amazon Developer portal, link it up to your function
+* Create an Amazon Developer account here: https://developer.amazon.com/
 
-*Copy the interaction model (both intent schema and sample utterances) into your skill
+* Whilst here, go to the Alexa section, click 'Get Started' under ASK, and select 'Add a new skill;
 
-*???
+* Ensure 'Custom Interaction Model' is selected, and choose your skill name/invocation name
 
-*Profit
+* Go to the AWS portal, lambda, and create a new skill using the fact template
+
+* Copy the contents of index.js from this repository into it
+
+* Copy the ARN (endpoint) from here, and paste it into 'Configuration' in the Amazon Dev portal
+
+* Under 'Interaction Model', copy over the contents of intentschema.js and sampleutterances.js into the relevant parts. Then build the model!
+
+* ???
+
+* Profit.
 
 -jamielliottg
